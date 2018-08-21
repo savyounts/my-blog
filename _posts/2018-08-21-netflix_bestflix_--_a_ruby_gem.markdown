@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Netflix Bestflix -- A Ruby Gem"
-date:       2018-08-21 19:51:29 +0000
+date:       2018-08-21 15:51:29 -0400
 permalink:  netflix_bestflix_--_a_ruby_gem
 ---
 
