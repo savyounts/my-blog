@@ -18,7 +18,7 @@ The silver lining of was learning several valuable lessons:
 
 1.  In CSS, no matter how you try to go about it, what sort of positioning you assign,  setting a percent from the left or the right, text-align everything in sight, or take a few moments to cry .. margin:auto only works if your object has display:block. This was a very small, but very big realization. 
 
-2.  You can't have two associations between the same two tables without a little extra work, but thankfully not too much extra work. Aliases are your friend and let you name your associations to things that just sound right. 
+2.  You can't have two associations between the same two tables without a little extra work, but thankfully not too much extra work. [Aliases](http://savyounts.com/activerecord_aliases) are your friend and let you name your associations to things that just sound right. 
 
 3. Make sure omniauth is spelled correctly or your third-party login will never work. 
 
