@@ -1,15 +1,14 @@
 # Site settings
+author: Savannah Younts
 title: The Girl Who Played With Code
 header-img: img/home-bg.png
 email: savyounts@gmail.com
-copyright_name: savyounts
+copyright_name: Savannah Younts
 description: > # this means to ignore newlines until "baseurl:"
   The struggles and accomplishments of a new Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  savyounts
-learn_profile: savyounts
-email_username: savyounts@gmail.com
 
 # Build settings
 markdown: kramdown
