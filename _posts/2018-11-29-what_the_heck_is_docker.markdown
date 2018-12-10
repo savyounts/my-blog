@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "What the heck is Docker?!"
-date:       2018-11-30 00:04:27 +0000
+title:      "So This Docker Thing..."
+date:       2018-11-29 19:04:27 -0500
 permalink:  what_the_heck_is_docker
 ---
 
