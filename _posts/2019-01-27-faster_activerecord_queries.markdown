@@ -30,7 +30,7 @@ SELECT letters FROM words
 
 ![](https://i.chzbgr.com/full/2703657216/h84D2668C/)
 
-For example, if we want to retrieve a list of addresses listed in order by street name, it is much faster to use 
+Since databases are optimized in this way, if we want to retrieve a list of addresses listed in order by street name, it is much faster to use 
 
 `Address.all.order(:street)`  -- which is an ActiveRecord query using SQL
 
