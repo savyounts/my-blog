@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Faster ActiveRecord Queries"
-date:       2019-01-27 21:46:17 +0000
+date:       2019-01-27 16:46:18 -0500
 permalink:  faster_activerecord_queries
 ---
 
@@ -25,7 +25,6 @@ This creates a SQL query that looks like this
 SELECT letters FROM words
 ```
 
-IF you already have an array of models for a related computation, in that case, mapping over the array may be faster than another database query. 
 
 > SQL Databases have been optimized to be very fast and efficient in terms of data retrieval and manipulation. In general, using SQL to retrieve and sort data will be much faster than using a similar command in Ruby. 
 
