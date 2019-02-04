@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Intro to APIs"
-date:       2019-01-10 21:09:34 +0000
+date:       2019-01-10 16:09:35 -0500
 permalink:  intro_to_apis
 ---
 
@@ -38,7 +38,7 @@ Whereas a web interface returns HTML for your browser to read, APIs typically re
 }
 ```
 
-This provides an easy (easier) way to schiper through data to find the exact info you need than if you had to scrape information from Foursquare's app and then search through different HTML tags to eventually find what you are looking for. 
+This provides an easy (easier) way to cipher through data to find the exact info you need than if you had to scrape information from Foursquare's app and then search through different HTML tags to eventually find what you are looking for. 
 
 Most good APIs will have extensive documentation about how to use the API, what functions are available, and what data you can access. Most good APIs also follow a REST format, so finding your way around them should start to click once you have used a few. 
 
