@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Google Analytics"
-date:       2019-06-14 16:58:03 +0000
+date:       2019-06-14 12:58:04 -0400
 permalink:  google_analytics
 ---
 
