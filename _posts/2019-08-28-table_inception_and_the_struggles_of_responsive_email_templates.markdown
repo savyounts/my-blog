@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Table Inception and the struggles of responsive email templates"
-date:       2019-08-28 19:13:18 +0000
+date:       2019-08-28 15:13:19 -0400
 permalink:  table_inception_and_the_struggles_of_responsive_email_templates
 ---
 
